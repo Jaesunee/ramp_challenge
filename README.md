@@ -1,5 +1,5 @@
 # Ramp Frontend Challenge
-Frontend Challenge for Ramp that involved fixing a broken UI with TS, JS, HTML, and CSS.
+Frontend Challenge for Ramp that involved fixing a broken UI written in TS, JS, HTML, and CSS.
 
 # Instructions
 
